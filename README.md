@@ -13,4 +13,4 @@ Homeworks and coding exercises from CENG 222 (IZTECH).
   -  For X, plot the cdf of the distribution. 
   -  For both Y and X, plot the histogram and the cumulative sum of histogram values of the generated samples.
 
-- Image files that describes hw5, hw6, h7 and hw8 added.
+- Image files that describes hw5, hw6, hw7 and hw8 added.
