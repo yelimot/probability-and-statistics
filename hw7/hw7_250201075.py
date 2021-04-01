@@ -1,7 +1,7 @@
 """
 M. Yaşar Polatlı
 250201075
-HW06
+HW07
 """
 
 import numpy as np
