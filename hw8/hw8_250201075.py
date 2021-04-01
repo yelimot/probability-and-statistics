@@ -1,6 +1,6 @@
 """M. Yaşar Polatlı
      250201075
-    Homework 7"""
+    Homework 8"""
 
 import numpy as np
 import random
